@@ -64,7 +64,7 @@ Input your password from your course-specific account
 * If you recently changed your password, it will probably take a bit for the password to be updated so please wait a bit!
 
 Successfully inputting your password will give you this:
-
+[Image](Server In.png)
 Now you're connected to the servers in the CSE Basement! Congrats!!
 
 ## Trying some Commands
