@@ -10,5 +10,10 @@ Example:
 > 
 > Username: ccl011
 
+
+### Resetting your Password
 If you need to reset your password:
-1. 
+1. Click on the button under "Additional Accounts"
+2. Click "Global Password Change Tool" within the orange box
+3. Click "Proceed to the Password Change Tool"
+4. Follow all the directions
