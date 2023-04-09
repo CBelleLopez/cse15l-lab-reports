@@ -39,6 +39,7 @@ We now want to connect to the server by inputting:
 
 `$ ssh cs15lsp23ru@ieng6.ucsd.edu`
 * Make sure not to include "$" as the terminal already provides it for you
+
 Take out the two letters "ru" and replace it with your two letters from your log-in info
 
 Example:
@@ -53,6 +54,9 @@ Connecting to the server for the first time would give you something like:
 `The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])?`
+
+Type `yes` then press "enter" on your keyboard to get connected.
+
 Since I have already connected to it before, it will just ask for a password:
 
 Input your password from the course-specific account
