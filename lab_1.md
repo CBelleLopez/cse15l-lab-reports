@@ -49,7 +49,6 @@ Example:
 > 
 > Example: cs15lsp23st@ieng6.ucsd.edu
 
-
 Connecting to the server for the first time would give you something like:
 
 > The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
@@ -82,3 +81,7 @@ The last two commands I tried were:
 `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
 
 The first command didn't output anything, while the second one outputted "Hello!"
+
+Maybe if I were using a different computer something could possibly be outputted.
+
+Once you're done using the remote server, make sure to use the command `exit` to log out!
