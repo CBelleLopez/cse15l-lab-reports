@@ -36,11 +36,14 @@ To open a new Terminal, I put my cursor to the top of the screen and clicked on 
 Then you click "New Terminal" and it should look like this:
 
 We now want to connect to the server by inputting:
+
 `$ ssh cs15lsp23ru@ieng6.ucsd.edu`
 * Make sure not to include "$" as the terminal already provides it for you
 * Take out the two letters "ru" and replace it with your two letters from your log-in info
 
 Example:
 > My log-in: cs15lsp23ru@ieng6.ucsd.edu
+> 
 > Change: cs15lsp23~~ru~~@ieng6.ucsd.edu
+> 
 > Example: cs15lsp23st@ieng6.ucsd.edu
