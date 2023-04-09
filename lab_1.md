@@ -49,6 +49,7 @@ Example:
 > Example: cs15lsp23st@ieng6.ucsd.edu
 
 Connecting to the server for the first time would give you something like:
+
 `The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])?`
