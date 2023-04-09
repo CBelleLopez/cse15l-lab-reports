@@ -59,6 +59,25 @@ Type `yes` then press "enter" on your keyboard to get connected.
 
 Since I have already connected to it before, it will just ask for a password:
 
-Input your password from the course-specific account
+Input your password from your course-specific account
 * When typing in your password it may seem like it's not working, but it actually is! Try to remember what characters you've already typed in.
 * If you recently changed your password, it will probably take a bit for the password to be updated so please wait a bit!
+
+Successfully inputting your password will give you this:
+
+Now you're connected to the servers in the CSE Basement! Congrats!!
+
+## Trying some Commands
+Now we can input some commands that were given to us in the lab.
+
+For me, running `cd ~` and `cd` did not work/did not have any output:
+
+However, inputting `ls -lat` and `ls -a` gave me some information:
+
+The last two commands I tried were:
+
+`cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
+
+`cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
+
+The first command didn't output anything, while the second one outputted "Hello!"
