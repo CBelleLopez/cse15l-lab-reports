@@ -4,6 +4,10 @@ Look up your course-specific account on here:
 [Link](https://sdacs.ucsd.edu/~icc/index.php)
 
 The Username is the first part of your email but **omit everything after the @**
-  Example: Email-
+
+Example:
+> Email: ccl011@ucsd.edu
+> Username: ccl011
+
 If you need to reset your password:
 1. 
