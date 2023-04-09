@@ -7,6 +7,7 @@ The Username is the first part of your email but **omit everything after the @**
 
 Example:
 > Email: ccl011@ucsd.edu
+> 
 > Username: ccl011
 
 If you need to reset your password:
