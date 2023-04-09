@@ -64,7 +64,9 @@ Input your password from your course-specific account
 * If you recently changed your password, it will probably take a bit for the password to be updated so please wait a bit!
 
 Successfully inputting your password will give you this:
+
 ![Image](Server_In.png)
+
 Now you're connected to the servers in the CSE Basement! Congrats!!
 
 ## Trying some Commands
@@ -72,7 +74,12 @@ Now we can input some commands that were given to us in the lab.
 
 For me, running `cd ~` and `cd` did not work/did not have any output:
 
+![Image](CD_Commands.png)
+
 However, inputting `ls -lat` and `ls -a` gave me some information:
+
+![Image](ls_command.png)
+![Image](ls-a_command.png)
 
 The last two commands I tried were:
 
