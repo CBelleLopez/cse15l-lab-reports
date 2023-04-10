@@ -21,10 +21,16 @@ If you need to reset your password:
 ## Installing Visual Studio Code
 To download the application, go to the Visual Studio Code website ([Link](https://code.visualstudio.com/))
 
+![Image](VSCode_Website.png)
+
 Click on the big blue download button
 * If you have a different operating system, click on the dropdown menu and select your respective OS
 
+![Image]()
+
 Opening the application will give you this screen:
+
+![Image](VSCode_Open.png)
 
 Don't mind the files under "Recent"
 
@@ -33,7 +39,11 @@ Since I have a MacBook, I did not have to worry about installing *git*
 
 To open a new Terminal, I put my cursor to the top of the screen and clicked on "Terminal"
 
+![Image](VSCode_Terminal.png)
+
 Then you click "New Terminal" and it should look like this:
+
+![Image](VSCode_New_Terminal.png)
 
 We now want to connect to the server by inputting:
 
@@ -88,6 +98,8 @@ The last two commands I tried were:
 `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
 
 The first command didn't output anything, while the second one outputted "Hello!"
+
+![Image](cp:cat_command.png)
 
 Maybe if I were using a different computer something could possibly be outputted.
 
