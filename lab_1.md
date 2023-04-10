@@ -69,6 +69,8 @@ Type `yes` then press "enter" on your keyboard to get connected.
 
 Since I have already connected to it before, it will just ask for a password:
 
+![Image](VSCode_Pass.png)
+
 Input your password from your course-specific account
 * When typing in your password it may seem like it's not working, but it actually is! Try to remember what characters you've already typed in.
 * If you recently changed your password, it will probably take a bit for the password to be updated so please wait a bit!
