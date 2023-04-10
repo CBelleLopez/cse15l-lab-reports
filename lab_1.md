@@ -26,11 +26,13 @@ To download the application, go to the Visual Studio Code website ([Link](https:
 Click on the big blue download button
 * If you have a different operating system, click on the dropdown menu and select your respective OS
 
-Opening the application will give you this screen:
+![Image](VSCode_Options.png)
+
+Opening the application should give you a screen like this:
 
 ![Image](VSCode_Open.png)
 
-Don't mind the files under "Recent"
+Don't mind the files under "Recent"!
 
 ## Remotely Connecting
 Since I have a MacBook, I did not have to worry about installing *git* 
