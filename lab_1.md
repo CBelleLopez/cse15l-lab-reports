@@ -99,7 +99,7 @@ The last two commands I tried were:
 
 The first command didn't output anything, while the second one outputted "Hello!"
 
-![Image](cp:cat_command.png)
+![Image](cp_cat_command.png)
 
 Maybe if I were using a different computer something could possibly be outputted.
 
