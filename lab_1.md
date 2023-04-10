@@ -26,8 +26,6 @@ To download the application, go to the Visual Studio Code website ([Link](https:
 Click on the big blue download button
 * If you have a different operating system, click on the dropdown menu and select your respective OS
 
-![Image]()
-
 Opening the application will give you this screen:
 
 ![Image](VSCode_Open.png)
