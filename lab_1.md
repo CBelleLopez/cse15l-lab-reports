@@ -53,11 +53,11 @@ We now want to connect to the server by inputting:
 Take out the two letters "ru" and replace it with your two letters from your log-in info
 
 Example:
-> My log-in: cs15lsp23ru@ieng6.ucsd.edu
+> My log-in: `cs15lsp23ru@ieng6.ucsd.edu`
 > 
 > Change: cs15lsp23~~ru~~@ieng6.ucsd.edu
 > 
-> Example: cs15lsp23st@ieng6.ucsd.edu
+> Example: `cs15lsp23st@ieng6.ucsd.edu`
 
 Connecting to the server for the first time would give you something like:
 
@@ -84,13 +84,16 @@ Now you're connected to the servers in the CSE Basement! Congrats!!
 ## Trying some Commands
 Now we can input some commands that were given to us in the lab.
 
-For me, running `cd ~` and `cd` did not work/did not have any output:
+After running `cd` and `cd ~` it would seem as if nothing happened because nothing showed up, however the command still worked! These commands are used to direct you back to your home directory, but since I'm already at the home directory, nothing needed to be changed.
 
 ![Image](CD_Commands.png)
 
-However, inputting `ls -lat` and `ls -a` gave me some information:
+Running `ls -lat` gave me a bunch of things in the terminal. This command actually derives from the `ls` command which lists out the files on the remote server. In this case, the "-lat" part makes sure that the output has the files listed in order of recently modified.
 
 ![Image](ls_command.png)
+
+Typing in `ls -a` also gives some information. This command also derives from the `ls` command and actually lists out all the files in the remote server, including the hidden ones, that start with a "."
+
 ![Image](ls-a_command.png)
 
 The last two commands I tried were:
