@@ -28,7 +28,7 @@ disease
 ```
 
 What this command did in particular for this file was scrounge through the file for the exact string "disease." Every time it finds that word, it prints "disease" out on a new line. This is useful for when you want to see how many of the same word is being used in the file.
-
+---
 For the second example, I used the command on a file in government/Media called Annual_Fee.txt.
 
 Input:
