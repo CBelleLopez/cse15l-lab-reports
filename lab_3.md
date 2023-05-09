@@ -133,3 +133,78 @@ When comparing the commands, we can see that when we used -o, "attorneys" was pr
 
 This command was found by looking at this website: [Link](https://www.freecodecamp.org/news/grep-command-in-linux-usage-options-and-syntax-examples/)
 
+# Grep -l
+One final way that I've found to use the grep command is to use -l.
+This command searches all the files in the specified path and prints out the files that contain the specified string.
+
+In my first example, I'll look through plos to see which files contain "organisms."
+
+Input:
+
+`grep -l "organisms" plos/*`
+
+Output:
+
+```
+plos/journal.pbio.0020012.txt
+plos/journal.pbio.0020035.txt
+plos/journal.pbio.0020042.txt
+plos/journal.pbio.0020043.txt
+plos/journal.pbio.0020053.txt
+plos/journal.pbio.0020068.txt
+plos/journal.pbio.0020071.txt
+plos/journal.pbio.0020100.txt
+plos/journal.pbio.0020133.txt
+plos/journal.pbio.0020146.txt
+plos/journal.pbio.0020147.txt
+plos/journal.pbio.0020164.txt
+plos/journal.pbio.0020183.txt
+plos/journal.pbio.0020190.txt
+plos/journal.pbio.0020206.txt
+plos/journal.pbio.0020213.txt
+plos/journal.pbio.0020215.txt
+plos/journal.pbio.0020232.txt
+plos/journal.pbio.0020272.txt
+plos/journal.pbio.0020276.txt
+plos/journal.pbio.0020302.txt
+plos/journal.pbio.0020306.txt
+plos/journal.pbio.0020307.txt
+plos/journal.pbio.0020347.txt
+plos/journal.pbio.0020400.txt
+plos/journal.pbio.0020406.txt
+plos/journal.pbio.0020439.txt
+plos/journal.pbio.0020440.txt
+plos/journal.pbio.0030021.txt
+plos/journal.pbio.0030062.txt
+plos/journal.pbio.0030065.txt
+plos/journal.pbio.0030094.txt
+plos/journal.pbio.0030102.txt
+plos/pmed.0020015.txt
+plos/pmed.0020158.txt
+plos/pmed.0020210.txt
+plos/pmed.0020231.txt
+```
+
+Here we can see that it looked through all the files within plos to see if it contained the word "organisms." All files that contained this word are seen here, and the files that don't are omitted. This command is useful to see which files talk about a certain topic / contain certain things you're looking for.
+
+---
+
+For the second example, we will look through government/Media to find the word "taxes."
+
+Input:
+
+`grep -l "taxes" government/Media/*`
+
+Output:
+
+```
+government/Media/Anthem_Payout.txt
+government/Media/Helping_Out.txt
+government/Media/Legal_system_fails_poor.txt
+government/Media/New_funding_sources.txt
+government/Media/The_Columbian.txt
+```
+
+We can see that only 5 files within the path government/Media contained the word "taxes." Again, this is useful for looking for files that talk about a certain subject that you're interested in.
+
+I found out about this command in this website: [Link](https://www.freecodecamp.org/news/grep-command-in-linux-usage-options-and-syntax-examples/)
