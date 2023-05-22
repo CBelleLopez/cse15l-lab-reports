@@ -1,1 +1,6 @@
+# Lab Report 4 - Command Line
+## Logging into ieng6
+First I logged into the remote server with
+
+`ssh cs15lsp23ru@ieng6.ucsd.edu`
 
