@@ -14,7 +14,7 @@ After that, I made a clone of my fork of the repository by typing:
   
 `git clone https://github.com/CBelleLopez/lab7.git`
   
-then pressed <Enter> to confirm.
+then pressed `<Enter>` to confirm.
   
 This is what shows up after running the command:
   
@@ -36,7 +36,7 @@ The file should open up and looks like this:
   
 ![Image](ListExamples_file.png)
   
-To navigate where the error is, I started typing in `while(index2` then pressed <Enter>. Next I pressed
+To navigate where the error is, I started typing in `while(index2` then pressed `<Enter>`. Next I pressed
 `<j><j><j><2w><h><h>` then deleted the "1" by pressing `<x>`. To insert "2", I pressed `<i><2>`. To exit 
 insert mode, I pressed `<esc>` and to save the changes I've made, I typed in `:wq`.
   
