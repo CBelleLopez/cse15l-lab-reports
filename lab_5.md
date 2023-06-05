@@ -14,9 +14,9 @@ After running `bash test.sh` on the files from this link https://github.com/ucsd
 
 > Detail the failure-inducing input and context. That might mean any or all of the command you're running, a test case, command-line arguments, working directory, even the last few commands you ran. Do your best to provide as much context as you can.
 
-In order to access the files from that github link, I `git clone` the link then `cd lab7`. After that, I made sure to change the error in TestExamples.java so that the error pointed out in lab 7 was correctly changed by using `vim TestExamples.java`. I saved and quit my changes then ran bash test.sh and got that error. It says the tests passed but the code in ListExamples.java is wrong apparently.
+In order to access the files from that github link, I `git clone` the link then `cd lab7`. After that, I made sure to change the error in TestExamples.java so that the error pointed out in lab 7 was correctly changed by using `vim TestExamples.java`. I saved and quit my changes then ran `bash test.sh` and got that error. It says the tests passed but the code in ListExamples.java is wrong apparently.
 
-Responses:
+**Responses:**
 
 TA: Hello! Can you show me the full code of what is in TestExamples.java? Having "cannot find symbol" errors shouldn't be showing up since ArrayLists are definitely objects we use in this code.
 
