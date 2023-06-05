@@ -73,3 +73,7 @@ To edit that page and add a commit message, press `<i>` to enter INSERT mode the
 The changes should show up like this after a commit message is added:
   
 ![Image](Lab4_Pics/git_commit.png)
+
+Last but not least, this is what should show up when `git push` is successfully executed:
+
+![Image](Lab4_Pics/git_push.png)
