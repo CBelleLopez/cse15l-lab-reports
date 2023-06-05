@@ -20,7 +20,7 @@ then pressed `<Enter>` to confirm.
   
 This is what shows up after running the command:
   
-![Image](Lab4_Pics/git_clone.png)
+![Image](Lab4_Pics/git_clone_2.png)
 
 ## Running the tests
 
