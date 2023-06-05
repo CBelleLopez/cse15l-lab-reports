@@ -21,6 +21,7 @@ In order to access the files from that github link, I `git clone` the link then 
 TA: Hello! Can you show me the full code of what is in TestExamples.java? Having "cannot find symbol" errors shouldn't be showing up since ArrayLists are definitely objects we use in this code.
 
 > Student: Here you go
+> 
 > ![Image](Lab5_Pics/ListExamples_errors.png)
 
 TA: I'm not sure if you forgot to include it in your screenshot, but you seem to be missing some imports, more specifically `import java.util.ArrayList;` and `import java.util.List;`. Add those to the top of the ListExamples.java code and the bash script should produce no errors!
