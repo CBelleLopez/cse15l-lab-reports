@@ -66,7 +66,7 @@ Running `git commit` will lead you to this page:
 
 ![Image](Lab4_Pics/new_commit.png)
 
-To edit that page and add a commit message, press <i> to enter INSERT mode then I typed in the message `Updated ListExamples.java`. After typing that in, I pressed `<esc>` to exit INSERT mode then saved and quit the commit message by typing `:wq`.
+To edit that page and add a commit message, press `<i>` to enter INSERT mode then I typed in the message `Updated ListExamples.java`. After typing that in, I pressed `<esc>` to exit INSERT mode then saved and quit the commit message by typing `:wq`.
   
 ![Image](Lab4_Pics/commit_message.png)
   
